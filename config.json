@@ -76,6 +76,10 @@
     "iKun资源": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+        },
+    "CK资源": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "CK资源" 
     },
     "jyzy": {
      "api": "https://jyzyapi.com/provide/vod/",
