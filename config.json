@@ -76,10 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
-    }
-   // "jyzy": {
-   //   "api": "https://jyzyapi.com/provide/vod/",
-    //  "name": "金鹰资源"
+    },
+    "jyzy": {
+     "api": "https://jyzyapi.com/provide/vod/",
+    "name": "金鹰资源"
     }
   }
 }
